@@ -1,0 +1,5 @@
+package mx.everis.cert.reglasInterfaces;
+
+public class ClaseDos extends ClaseUno{
+	
+}

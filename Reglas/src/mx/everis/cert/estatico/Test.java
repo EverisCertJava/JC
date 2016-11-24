@@ -1,0 +1,16 @@
+package mx.everis.cert.estatico;
+
+import static mx.everis.cert.estatico.Clase2Estatica.edad;
+
+import static java.lang.Long.MAX_VALUE;
+//import static java.lang.Integer.MAX_VALUE;Error, no puedo tener ambas importaciones de MAX_VALUE
+
+public class Test {
+	public static void main(String args[]){
+		Clase1Estatica.doSomething();
+		Clase2Estatica.doSomething();
+		System.err.println(Clase2Estatica.age);
+		System.err.println(edad);
+		System.err.println(Clase2Estatica.nombre);
+	}
+}

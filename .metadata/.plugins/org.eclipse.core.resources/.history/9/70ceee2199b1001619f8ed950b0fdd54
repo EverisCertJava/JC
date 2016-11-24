@@ -1,0 +1,5 @@
+package mx.everis.cert.reglasInterfaces;
+
+public interface InterfaceUno {
+	 void doSomething();
+}

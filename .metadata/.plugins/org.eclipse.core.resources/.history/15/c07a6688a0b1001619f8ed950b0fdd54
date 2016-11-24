@@ -1,0 +1,14 @@
+package mx.everis.cert.polimorfismo;
+
+public class Testing {
+
+	public static void main(String[] args) {
+		Taza t = new Taza();
+		Leche leche = new Leche();
+		Cafe cafe = new Cafe();
+		
+		t.arregloLiquido(leche,0);
+
+	}
+
+}

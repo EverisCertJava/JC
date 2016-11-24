@@ -1,0 +1,10 @@
+package mx.everis.cert.estatico;
+
+import mx.everis.cert.estatico.Clase1Estatica;;
+
+
+public class Test {
+	public static void main(String args[]){
+		doSomething();
+	}
+}

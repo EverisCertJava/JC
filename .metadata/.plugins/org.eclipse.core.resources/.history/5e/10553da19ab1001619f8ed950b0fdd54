@@ -1,0 +1,8 @@
+package mx.everis.cert.reglasInterfaces;
+
+public interface InterfaceUno {
+	
+	String nombre = "Carlos";
+	
+	final void doSomething();
+}

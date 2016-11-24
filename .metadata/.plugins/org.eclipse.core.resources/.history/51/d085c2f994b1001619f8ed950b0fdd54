@@ -1,0 +1,11 @@
+package mx.everis.cert.estatico;
+
+
+
+public class Test {
+	public static void main(String args[]){
+		Clase1Estatica.doSomething();
+		Clase2Estatica.doSomething();
+		System.err.println(Clase2Estatica.age);
+	}
+}

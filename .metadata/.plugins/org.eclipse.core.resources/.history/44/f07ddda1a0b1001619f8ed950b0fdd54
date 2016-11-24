@@ -1,0 +1,10 @@
+package mx.everis.cert.polimorfismo;
+
+public class Taza {
+	Liquido [] arregloLiquido = new Liquido[3];
+	
+	public void arregloLiquido(Liquido leche, int i) {
+		arregloLiquido[i] = l;
+		
+	}
+}

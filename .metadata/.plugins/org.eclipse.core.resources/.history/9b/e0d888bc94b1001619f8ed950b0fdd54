@@ -1,0 +1,7 @@
+package mx.everis.cert.estatico;
+
+public class Clase2Estatica {
+	public static void doSomething() {
+
+	}
+}

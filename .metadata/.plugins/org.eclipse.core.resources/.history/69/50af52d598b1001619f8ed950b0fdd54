@@ -1,0 +1,11 @@
+package mx.everis.cert.reglasInterfaces;
+
+public class ClaseUno implements InterfaceUno {
+
+	@Override
+	public void doSomething() {
+		// TODO Auto-generated method stub
+
+	}
+
+}
