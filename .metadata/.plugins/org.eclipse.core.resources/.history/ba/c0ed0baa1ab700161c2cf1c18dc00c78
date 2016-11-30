@@ -1,0 +1,15 @@
+package mx.everis.cert.test;
+
+import mx.everis.cert.enums.TamanioCafe;
+
+public class TestEnum {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("******************");
+		System.err.println(TamanioCafe.CHICO.getValue());
+		System.err.println(TamanioCafe.MEDIANO);
+		System.err.println(TamanioCafe.GRANDE);
+	}
+
+}

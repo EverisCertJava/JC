@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;mx.everis.cert.enums.Cafe&apos; to &apos;TamanioCafe&apos;&#x0A;- Original project: &apos;EnumEstructura&apos;&#x0A;- Original element: &apos;mx.everis.cert.enums.Cafe&apos;&#x0A;- Renamed element: &apos;mx.everis.cert.enums.TamanioCafe&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Cafe&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;mx.everis.cert.enums{Cafe.java[Cafe" matchStrategy="1" name="TamanioCafe" qualified="false" references="true" similarDeclarations="false" stamp="1480523063074" textual="false" version="1.0"/>
+</session>

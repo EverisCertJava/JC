@@ -1,0 +1,18 @@
+package mx.everis.cert.enums;
+
+public enum TamanioCafe {
+	CHICO(""),
+	MEDIANO(""),
+	GRANDE("");
+	
+	private String mensaje;
+	
+	
+	TamanioCafe(String s){
+		this.mensaje = s;
+	}
+	
+	String getValue(){
+		return this.mensaje;
+	}
+}

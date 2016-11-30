@@ -1,0 +1,10 @@
+package mx.everis.cert.test;
+
+public class TestEnum {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

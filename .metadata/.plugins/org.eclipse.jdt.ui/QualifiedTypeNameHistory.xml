@@ -21,4 +21,8 @@
 <fullyQualifiedTypeName name="mx.everis.cert.polimorfismo.Taza"/>
 <fullyQualifiedTypeName name="mx.everis.cert.polimorfismo.Leche"/>
 <fullyQualifiedTypeName name="mx.everis.cert.polimorfismo.Cafe"/>
+<fullyQualifiedTypeName name="java.awt.Shape"/>
+<fullyQualifiedTypeName name="mx.everis.cert.clases.Rectangle"/>
+<fullyQualifiedTypeName name="mx.everis.cert.interfaces.Shape"/>
+<fullyQualifiedTypeName name="java.text.DecimalFormat"/>
 </qualifiedTypeNameHistroy>

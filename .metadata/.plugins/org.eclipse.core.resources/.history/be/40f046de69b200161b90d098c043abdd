@@ -1,0 +1,35 @@
+package mx.everis.reto;
+
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Scanner teclado = new Scanner (System. in);
+		System. out. println ("Escriba el numero de numeros a ingresar XD: ");
+		int rango = teclado.nextInt();
+		double fn = 0,fc = 0,fp = 0;
+		System.out.println("Ingresa los "+rango+ " numero(s) sepaardos por espacio");
+		String arreglo = teclado.nextLine();
+		
+		String[] splited = arreglo.split("\\s+");
+		
+		
+		for (int i = 0; i < rango; i++) {
+			Integer num;
+			System.err.print("***** Ingresa el numero "+i+" ");
+			num = Integer.valueOf(splited[i]); 
+			if (num<0) {
+				fn++;
+			} else if(num==0){
+				fc++;
+			}else{
+				fp++;
+			}
+		}
+		
+		
+
+	}
+
+}

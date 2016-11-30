@@ -1,0 +1,7 @@
+package mx.everis.cert.enums;
+
+public enum TamanioCafe {
+	CHICO,
+	MEDIANO,
+	GRANDE;
+}

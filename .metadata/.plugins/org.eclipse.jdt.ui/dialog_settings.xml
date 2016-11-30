@@ -30,8 +30,8 @@
 	</section>
 	<section name="DialogBounds_SuperInterfaceSelectionDialog">
 		<item value="0" key="DIALOG_Y_ORIGIN"/>
-		<item value="103" key="DIALOG_X_ORIGIN"/>
 		<item value="1|Sans|10.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="103" key="DIALOG_X_ORIGIN"/>
 		<item value="631" key="DIALOG_HEIGHT"/>
 		<item value="418" key="DIALOG_WIDTH"/>
 	</section>
@@ -40,8 +40,8 @@
 	</section>
 	<section name="DialogBounds_OverrideMethodDialog">
 		<item value="95" key="DIALOG_Y_ORIGIN"/>
-		<item value="1|Sans|10.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
 		<item value="647" key="DIALOG_X_ORIGIN"/>
+		<item value="1|Sans|10.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
 		<item value="519" key="DIALOG_HEIGHT"/>
 		<item value="627" key="DIALOG_WIDTH"/>
 	</section>

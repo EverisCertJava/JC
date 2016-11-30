@@ -6,7 +6,7 @@ public class Rectangle implements Shape {
 
 	@Override
 	public void draw() {
-		System.err.println("Draw a Square");
+		System.err.println("Draw a Rectangle");
 
 	}
 
